@@ -1,0 +1,1 @@
+This is simple recipe collection, brutallist style.
